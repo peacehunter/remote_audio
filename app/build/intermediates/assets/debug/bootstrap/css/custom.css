@@ -1,0 +1,63 @@
+
+.song_name{
+/*
+    float: left;
+    width: 361px;
+    padding: 30px;
+    margin:9px;
+    height: 90px;
+    */
+}
+
+.main{
+    height: 80%;
+    position: fixed;
+    overflow: scroll;
+    width:100%
+
+}
+
+.display_player{
+
+    position: fixed;
+    bottom:0%;
+    width:100%;
+    height: 20%;
+
+}
+
+.alert{
+    width: 100%;
+    padding-bottom: 0px;
+    padding-top: 10px;
+}
+
+audio{
+       width: 100%;
+       margin-bottom: 0px;
+       height: 30px;
+       padding-top: 37px;
+       padding-bottom: 20px;
+
+}
+
+.main_div{
+    width:100% ;
+    float:left;
+
+}
+
+.song_detail_holder{
+
+    padding-top: 10px;
+
+}
+
+
+
+.resize{
+
+margin:0 auto;
+
+width: 50%;
+}

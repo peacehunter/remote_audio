@@ -1,0 +1,368 @@
+[
+    {
+        "outputFile": "D:\\remote_audio\\app\\build\\intermediates\\res\\merged\\debug\\values-gl-rES\\values-gl-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 111,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 111,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 107,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 107,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 122,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 122,
+                        "endOffset": 622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 111,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 627,
+                        "endColumn": 111,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 107,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 107,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 84,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endColumn": 84,
+                        "endOffset": 927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endColumn": 101,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 932,
+                        "endColumn": 101,
+                        "endOffset": 1029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 125,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1034,
+                        "endColumn": 125,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 81,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1160,
+                        "endColumn": 81,
+                        "endOffset": 1237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 106,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1242,
+                        "endColumn": 106,
+                        "endOffset": 1344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 108,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1349,
+                        "endColumn": 108,
+                        "endOffset": 1453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 98,
+                    "endOffset": 1373
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1458,
+                        "endColumn": 98,
+                        "endOffset": 1552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1378,
+                    "endColumn": 107,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1557,
+                        "endColumn": 107,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endColumn": 102,
+                    "endOffset": 1584
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 102,
+                        "endOffset": 1763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1589,
+                    "endColumn": 106,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1768,
+                        "endColumn": 106,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 121,
+                    "endOffset": 1813
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1875,
+                        "endColumn": 121,
+                        "endOffset": 1992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1818,
+                    "endColumn": 99,
+                    "endOffset": 1913
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1997,
+                        "endColumn": 99,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1918,
+                    "endColumn": 251,
+                    "endOffset": 2165
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-gl-rES\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 255,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2170,
+                    "endColumn": 100,
+                    "endOffset": 2266
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2097,
+                        "endColumn": 100,
+                        "endOffset": 2193
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\remote_audio\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-hu\\values-hu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Tuhin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.4.0.aar\\059c4c5935859c574dd65134b364ccac\\res\\values-hu\\common_strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endColumns": "298",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1969",
+                        "endColumns": "294",
+                        "endOffsets": "2259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Tuhin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\e318511f39de2f0d9892f99f2bcc0293\\res\\values-hu\\values-hu.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "280,388,496,619,724,839,923,1035,1165,1248,1358,1469,1569,1680,1788,1907,2041,2144",
+                        "endColumns": "107,107,122,104,114,83,111,129,82,109,110,99,110,107,118,133,102,100",
+                        "endOffsets": "383,491,614,719,834,918,1030,1160,1243,1353,1464,1564,1675,1783,1902,2036,2139,2240"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,321,444,549,664,748,860,990,1073,1183,1294,1394,1505,1613,1732,1866,2264",
+                        "endColumns": "107,107,122,104,114,83,111,129,82,109,110,99,110,107,118,133,102,100",
+                        "endOffsets": "208,316,439,544,659,743,855,985,1068,1178,1289,1389,1500,1608,1727,1861,1964,2360"
+                    }
+                }
+            ]
+        }
+    ]
+}

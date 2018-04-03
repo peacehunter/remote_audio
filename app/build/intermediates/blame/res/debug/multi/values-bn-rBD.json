@@ -1,0 +1,368 @@
+[
+    {
+        "outputFile": "D:\\remote_audio\\app\\build\\intermediates\\res\\merged\\debug\\values-bn-rBD\\values-bn-rBD.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 108,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 107,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 107,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 122,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 122,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 111,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 111,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 105,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 105,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 93,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endColumn": 93,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 104,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 104,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 129,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1041,
+                        "endColumn": 129,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 86,
+                    "endOffset": 1074
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1171,
+                        "endColumn": 86,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1079,
+                    "endColumn": 109,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 109,
+                        "endOffset": 1363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1189,
+                    "endColumn": 115,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1368,
+                        "endColumn": 115,
+                        "endOffset": 1479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endColumn": 106,
+                    "endOffset": 1407
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1484,
+                        "endColumn": 106,
+                        "endOffset": 1586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1412,
+                    "endColumn": 109,
+                    "endOffset": 1517
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1591,
+                        "endColumn": 109,
+                        "endOffset": 1696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1522,
+                    "endColumn": 105,
+                    "endOffset": 1623
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1701,
+                        "endColumn": 105,
+                        "endOffset": 1802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1628,
+                    "endColumn": 109,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1807,
+                        "endColumn": 109,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 124,
+                    "endOffset": 1858
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1917,
+                        "endColumn": 124,
+                        "endOffset": 2037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1863,
+                    "endColumn": 104,
+                    "endOffset": 1963
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2042,
+                        "endColumn": 104,
+                        "endOffset": 2142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1968,
+                    "endColumn": 265,
+                    "endOffset": 2229
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-bn-rBD\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 269,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2234,
+                    "endColumn": 100,
+                    "endOffset": 2330
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2147,
+                        "endColumn": 100,
+                        "endOffset": 2243
+                    }
+                }
+            }
+        ]
+    }
+]

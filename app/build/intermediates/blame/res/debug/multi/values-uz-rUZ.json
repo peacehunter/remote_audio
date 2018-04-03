@@ -1,0 +1,349 @@
+[
+    {
+        "outputFile": "D:\\remote_audio\\app\\build\\intermediates\\res\\merged\\debug\\values-uz-rUZ\\values-uz-rUZ.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 104,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 104,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 107,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 107,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 122,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 122,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 103,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 103,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 116,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 116,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 85,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 85,
+                        "endOffset": 922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 110,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 927,
+                        "endColumn": 110,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 115,
+                    "endOffset": 970
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 115,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 975,
+                    "endColumn": 83,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1154,
+                        "endColumn": 83,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endColumn": 108,
+                    "endOffset": 1163
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 108,
+                        "endOffset": 1342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1168,
+                    "endColumn": 106,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1347,
+                        "endColumn": 106,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 98,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1454,
+                        "endColumn": 98,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 107,
+                    "endOffset": 1477
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1553,
+                        "endColumn": 107,
+                        "endOffset": 1656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1482,
+                    "endColumn": 104,
+                    "endOffset": 1582
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1661,
+                        "endColumn": 104,
+                        "endOffset": 1761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1587,
+                    "endColumn": 104,
+                    "endOffset": 1687
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1766,
+                        "endColumn": 104,
+                        "endOffset": 1866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1692,
+                    "endColumn": 98,
+                    "endOffset": 1786
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1871,
+                        "endColumn": 98,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1791,
+                    "endColumn": 280,
+                    "endOffset": 2067
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-uz-rUZ\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 284,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2072,
+                    "endColumn": 100,
+                    "endOffset": 2168
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1970,
+                        "endColumn": 100,
+                        "endOffset": 2066
+                    }
+                }
+            }
+        ]
+    }
+]

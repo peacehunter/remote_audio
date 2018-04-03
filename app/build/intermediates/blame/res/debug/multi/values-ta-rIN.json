@@ -1,0 +1,368 @@
+[
+    {
+        "outputFile": "D:\\remote_audio\\app\\build\\intermediates\\res\\merged\\debug\\values-ta-rIN\\values-ta-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 113,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 113,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 107,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 107,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 122,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 506,
+                        "endColumn": 122,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 104,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 629,
+                        "endColumn": 104,
+                        "endOffset": 729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 114,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 114,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 88,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 88,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 106,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 938,
+                        "endColumn": 106,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 125,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1045,
+                        "endColumn": 125,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 81,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1171,
+                        "endColumn": 81,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 101,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endColumn": 101,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endColumn": 103,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endColumn": 103,
+                        "endOffset": 1454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 96,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 96,
+                        "endOffset": 1551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 109,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1556,
+                        "endColumn": 109,
+                        "endOffset": 1661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1487,
+                    "endColumn": 101,
+                    "endOffset": 1584
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1666,
+                        "endColumn": 101,
+                        "endOffset": 1763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1589,
+                    "endColumn": 106,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1768,
+                        "endColumn": 106,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 118,
+                    "endOffset": 1810
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1875,
+                        "endColumn": 118,
+                        "endOffset": 1989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1815,
+                    "endColumn": 99,
+                    "endOffset": 1910
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1994,
+                        "endColumn": 99,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1915,
+                    "endColumn": 237,
+                    "endOffset": 2148
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-ta-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 241,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2153,
+                    "endColumn": 100,
+                    "endOffset": 2249
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 100,
+                        "endOffset": 2190
+                    }
+                }
+            }
+        ]
+    }
+]

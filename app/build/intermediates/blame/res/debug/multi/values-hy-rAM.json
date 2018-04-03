@@ -1,0 +1,368 @@
+[
+    {
+        "outputFile": "D:\\remote_audio\\app\\build\\intermediates\\res\\merged\\debug\\values-hy-rAM\\values-hy-rAM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 102,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 102,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 107,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 107,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 122,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 122,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 100,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 100,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 109,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 109,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 89,
+                    "endOffset": 735
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 89,
+                        "endOffset": 914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 740,
+                    "endColumn": 105,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 919,
+                        "endColumn": 105,
+                        "endOffset": 1020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 114,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1025,
+                        "endColumn": 114,
+                        "endOffset": 1135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 84,
+                    "endOffset": 1041
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1140,
+                        "endColumn": 84,
+                        "endOffset": 1220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1046,
+                    "endColumn": 106,
+                    "endOffset": 1148
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1225,
+                        "endColumn": 106,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1153,
+                    "endColumn": 106,
+                    "endOffset": 1255
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1332,
+                        "endColumn": 106,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1260,
+                    "endColumn": 98,
+                    "endOffset": 1354
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1439,
+                        "endColumn": 98,
+                        "endOffset": 1533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1359,
+                    "endColumn": 109,
+                    "endOffset": 1464
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1538,
+                        "endColumn": 109,
+                        "endOffset": 1643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1469,
+                    "endColumn": 106,
+                    "endOffset": 1571
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1648,
+                        "endColumn": 106,
+                        "endOffset": 1750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1576,
+                    "endColumn": 100,
+                    "endOffset": 1672
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1755,
+                        "endColumn": 100,
+                        "endOffset": 1851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1677,
+                    "endColumn": 119,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1856,
+                        "endColumn": 119,
+                        "endOffset": 1971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endColumn": 98,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1976,
+                        "endColumn": 98,
+                        "endOffset": 2070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 258,
+                    "endOffset": 2150
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-hy-rAM\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 262,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2155,
+                    "endColumn": 100,
+                    "endOffset": 2251
+                },
+                "from": {
+                    "file": "D:\\remote_audio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endColumn": 100,
+                        "endOffset": 2171
+                    }
+                }
+            }
+        ]
+    }
+]

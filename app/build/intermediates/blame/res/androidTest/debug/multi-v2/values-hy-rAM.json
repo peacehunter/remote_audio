@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\remote_audio\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Tuhin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.4.0.aar\\059c4c5935859c574dd65134b364ccac\\res\\values-hy-rAM\\common_strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endColumns": "262",
+                        "endOffsets": "428"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1896",
+                        "endColumns": "258",
+                        "endOffsets": "2150"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Tuhin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\e318511f39de2f0d9892f99f2bcc0293\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "284,387,495,618,719,829,919,1025,1140,1225,1332,1439,1538,1648,1755,1856,1976,2075",
+                        "endColumns": "102,107,122,100,109,89,105,114,84,106,106,98,109,106,100,119,98,100",
+                        "endOffsets": "382,490,613,714,824,914,1020,1135,1220,1327,1434,1533,1643,1750,1851,1971,2070,2171"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,316,439,540,650,740,846,961,1046,1153,1260,1359,1469,1576,1677,1797,2155",
+                        "endColumns": "102,107,122,100,109,89,105,114,84,106,106,98,109,106,100,119,98,100",
+                        "endOffsets": "203,311,434,535,645,735,841,956,1041,1148,1255,1354,1464,1571,1672,1792,1891,2251"
+                    }
+                }
+            ]
+        }
+    ]
+}

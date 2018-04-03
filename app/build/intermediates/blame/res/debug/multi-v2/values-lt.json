@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\remote_audio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Tuhin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.4.0.aar\\059c4c5935859c574dd65134b364ccac\\res\\values-lt\\common_strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endColumns": "277",
+                        "endOffsets": "443"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1944",
+                        "endColumns": "273",
+                        "endOffsets": "2213"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Tuhin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\e318511f39de2f0d9892f99f2bcc0293\\res\\values-lt\\values-lt.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "280,396,504,627,728,841,928,1037,1158,1243,1352,1461,1561,1671,1775,1888,2018,2119",
+                        "endColumns": "115,107,122,100,112,86,108,120,84,108,108,99,109,103,112,129,100,100",
+                        "endOffsets": "391,499,622,723,836,923,1032,1153,1238,1347,1456,1556,1666,1770,1883,2013,2114,2215"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,221,329,452,553,666,753,862,983,1068,1177,1286,1386,1496,1600,1713,1843,2218",
+                        "endColumns": "115,107,122,100,112,86,108,120,84,108,108,99,109,103,112,129,100,100",
+                        "endOffsets": "216,324,447,548,661,748,857,978,1063,1172,1281,1381,1491,1595,1708,1838,1939,2314"
+                    }
+                }
+            ]
+        }
+    ]
+}

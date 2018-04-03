@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\remote_audio\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-kk-rKZ\\values-kk-rKZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Tuhin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\e318511f39de2f0d9892f99f2bcc0293\\res\\values-kk-rKZ\\values-kk-rKZ.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "284,396,504,627,730,840,925,1031,1150,1231,1334,1439,1537,1644,1753,1853,1968,2067",
+                        "endColumns": "111,107,122,102,109,84,105,118,80,102,104,97,106,108,99,114,98,100",
+                        "endOffsets": "391,499,622,725,835,920,1026,1145,1226,1329,1434,1532,1639,1748,1848,1963,2062,2163"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,217,325,448,551,661,746,852,971,1052,1155,1260,1358,1465,1574,1674,1789,2132",
+                        "endColumns": "111,107,122,102,109,84,105,118,80,102,104,97,106,108,99,114,98,100",
+                        "endOffsets": "212,320,443,546,656,741,847,966,1047,1150,1255,1353,1460,1569,1669,1784,1883,2228"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Tuhin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-8.4.0.aar\\059c4c5935859c574dd65134b364ccac\\res\\values-kk-rKZ\\common_strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endColumns": "247",
+                        "endOffsets": "413"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1888",
+                        "endColumns": "243",
+                        "endOffsets": "2127"
+                    }
+                }
+            ]
+        }
+    ]
+}
